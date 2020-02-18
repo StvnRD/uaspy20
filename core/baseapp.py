@@ -14,6 +14,7 @@ class BaseApp:
                 print("Pilihan tidak ada.")
 
     def list_book(self):
+        print("Haha")
         pass
 
     def add_book(self):
@@ -22,7 +23,7 @@ class BaseApp:
     def search_book(self):
         pass
 
-    def __menu(self):
+    def menu(self):
         self.clear()
 
         print("===========================================")
