@@ -1,2 +1,3 @@
 # Project UAS Bahasa Pemrograman
-silakan tuliskan langkah-langkah disertai screenshotnya
+
+- Program belum sempurna karna saya hanya memahami sedikit
